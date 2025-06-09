@@ -9,4 +9,3 @@ This task is designed to make you comfortable to github, git and readme files.
 5. List the steps you've done till now (along with commands)
 6. Push the changes to your fork 
 7. Give a pull request from your fork to this repository
-u
